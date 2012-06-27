@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Addresses>
+<address>
+<name>xiao wang</name>
+<mobile>15899999999</mobile>
+<homeAddress>Beijing</homeAddress>
+</address>
+<address>
+<name>zhang feng</name>
+<mobile>15888888888</mobile>
+<homeAddress>Shanghai</homeAddress>
+</address>
+</Addresses>
